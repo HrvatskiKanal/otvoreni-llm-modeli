@@ -4,7 +4,7 @@ Pregledna hrvatska lista otvorenih i open-weights jezičnih modela, lokalnih cha
 
 > **Ovo nije lista Hrvatskog Kanala niti su navedeni projekti naši proizvodi.** Ovo je neovisni urednički popis poveznica. Svaki projekt pripada svojim autorima, ima vlastitu licencu i vlastite uvjete korištenja. Ovaj repozitorij nema našu LICENSE datoteku i ne licencira navedene projekte.
 
-## Jedinstvena lista: 10 zanimljivih otvorenih AI projekata
+## Jedinstvena lista: 10 otvorenih LLM modela i chatbot sučelja
 
 ### 1. [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) — model
 
@@ -12,7 +12,7 @@ Model usmjeren na složenije zaključivanje, matematiku, programiranje i višeko
 
 ### 2. [Meta Llama](https://github.com/meta-llama/llama) — obitelj modela
 
-Poznata obitelj jezičnih modela u više veličina i varijanti. Llama modeli često služe kao temelj za lokalne chatbotove, razvojne alate i druge AI aplikacije.
+Poznata obitelj jezičnih modela u više veličina i varijanti. Llama modeli često služe kao temelj za lokalne chatbotove, razvojne alate i druge jezične aplikacije.
 
 ### 3. [Open WebUI](https://github.com/open-webui/open-webui) — chatbot sučelje
 
@@ -44,7 +44,7 @@ Dokumentacija i primjeri za Phi modele, koji su zanimljivi kada su važni manja 
 
 ### 10. [Jan](https://github.com/janhq/jan) — desktop aplikacija
 
-Desktop aplikacija za lokalni rad s AI modelima na računalu. Namijenjena je korisnicima koji žele grafičko sučelje umjesto rada samo kroz naredbeni redak.
+Desktop aplikacija za lokalni rad s LLM modelima na računalu. Namijenjena je korisnicima koji žele grafičko sučelje umjesto rada samo kroz naredbeni redak.
 
 ## Napomene
 
