@@ -46,12 +46,8 @@ Dokumentacija i primjeri za Phi modele, koji su zanimljivi kada su važni manja 
 
 Desktop aplikacija za lokalni rad s AI modelima na računalu. Namijenjena je korisnicima koji žele grafičko sučelje umjesto rada samo kroz naredbeni redak.
 
-## Prije instalacije
+## Napomene
 
-- **Open-source i open-weights nisu isto.** Neki projekti objavljuju izvorni kod, neki težine modela, a neki kombinaciju oboje.
-- **Licence se razlikuju.** Provjerite licencu modela, aplikacije, podataka i svih dodatnih komponenti.
-- **„Besplatno” ne znači bez troška.** Lokalni rad može zahtijevati jači RAM, GPU, disk, električnu energiju ili vrijeme za preuzimanje modela.
-- **Privatnost ovisi o postavkama.** Lokalna aplikacija ne jamči automatski da se ništa ne šalje na internet; provjerite konektore, telemetriju i uključene API-je.
-- **Provjerite aktivnost projekta.** Pogledajte zadnje objave, otvorene sigurnosne probleme i upute za instalaciju prije pokretanja.
+> **Napomena:** Ovo je urednički izbor, a ne službena preporuka. Prije instalacije provjeri aktivnost projekta, sigurnost, licencu, ovisnosti i moguće troškove modela ili hostinga. Popis je sadržajno nadahnut javnim popisom [Open Source Alternatives to Manus AI](https://github.com/rodrigoandrigo/open-source-alternatives-to-manus-ai), ali su hrvatski tekst, opisi i organizacija originalno uređeni za Hrvatski Kanal.
 
-Ovo je samostalna lista po uzoru na javne popise otvorenih AI projekata. Tekst, prijevodi i organizacija ove stranice uređeni su posebno za ovaj repozitorij.
+> **Napomena o vlasništvu:** Ovo je samo urednički popis i vodič. Povezani projekti pripadaju svojim autorima; svaki repozitorij ima vlastite uvjete korištenja i licencu. Ovaj popis ne licencira, ne prodaje i ne predstavlja navedene projekte kao proizvode Hrvatskog Kanala.
